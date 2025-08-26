@@ -18,3 +18,4 @@ if puntaje == 10:
 else:
    print('a')
    print('esto lo hice con mi rama')
+   print('otro print')
