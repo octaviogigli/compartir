@@ -4,6 +4,7 @@
 # git checkout nombre-de-la-rama para cambiar de rama
 # gir marge, mescla las ramas puntaje = 0
 num = int(input("ingrese numero: "))
+print("rama de octavio")
 puntaje = 0
 for i in range(1,11):
   respuesta = int(input(f"{i}x{num}= "))
