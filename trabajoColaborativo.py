@@ -16,3 +16,5 @@ for i in range(1,11):
 print(f"tu puntaje fue {puntaje}/10")
 if puntaje == 10:
     print("hiciste la mayor marca")
+else:
+   print('a')
