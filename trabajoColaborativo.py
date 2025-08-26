@@ -18,3 +18,5 @@ if puntaje == 10:
     print("hiciste la mayor marca")
 else:
    print('a')
+   print('esto lo hice con mi rama')
+   print('otro print')
